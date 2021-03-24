@@ -117,4 +117,4 @@ Daniel Lustig, Andy Wright, Alexandros Papakonstantinou, and Olivier Giroux,
  "Automatic Synthesis of Comprehensive Memory Model Litmus Test Suites",
 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Xi'an, China, April 8-12, 2017
 
-([Paper](fixme)) ([Slides](coming_soon)) coming soon!
+([Paper](https://research.nvidia.com/publication/2017-04_Automated-Synthesis-of) [pdf](https://research.nvidia.com/sites/default/files/pubs/2017-04_Automated-Synthesis-of//ASPLOS_2017_Memory_Model_Verification.pdf)) ([Slides](coming_soon)) coming soon!
