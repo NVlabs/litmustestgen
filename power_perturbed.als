@@ -250,7 +250,7 @@ fun coe_p[p: PTag->univ] : MemoryEvent->MemoryEvent { co_p[p] - coi_p[p] }
 pred irreflexive[rel: Event->Event]        { no iden & rel }
 pred acyclic[rel: Event->Event]            { irreflexive[^rel] }
 pred total[rel: Event->Event, bag: Event] {
-  all disj e, e': bag | e->e' in rel + ~rel
+  all disj e, e2: bag | e->e2 in rel + ~rel
   acyclic[rel]
 }
 
